@@ -1,3 +1,10 @@
+
+/* This pattern is downloaded from www.toptal.com/designers/subtlepatterns/ */
 body {
-    background-image: url("/assets/images/greekbkgrd.jpg")
-}
+    background-image: url("assets/css/images/full-bloom.png");
+    background-repeat: repeat-y;
+};
+
+
+
+h1{}
