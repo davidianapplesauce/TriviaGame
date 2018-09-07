@@ -1,10 +1,22 @@
 
 /* This pattern is downloaded from www.toptal.com/designers/subtlepatterns/ */
 body {
-    background-image: url("images/full-bloom.png");
-    background-repeat: repeat-y;
+    background-image: url("../images/full-bloom.png");
+    /* background-repeat: repeat-y; */
 };
 
 
+/* container not working.... edits worked in the devtools tho but not here when pasted over. */
+.container {
+    /* width: 65%;
+    margin: 20px auto;
+    overflow: auto;
+    padding:25px;/*test*/
+    margin-top: 75px;
+    margin-bottom: 300px;
+} 
 
-h1{}
+header {
+    text-align: center;
+    border-bottom: black dashed 2px;
+}
